@@ -61,7 +61,7 @@ sklearn==0.0.post1
 tensorboard==2.6.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow @ https://mirrors.huaweicloud.com/repository/pypi/packages/53/06/9cc2ab35e86faa8a300c1335da6de5ec3c0f9a564959c5783ff6117a49a6/tensorflow-2.6.4-cp37-cp37m-win_amd64.whl#sha256=72ecee99fa643d6873a629efcd3914f1a86d634a9f4ea20e9756a225508fe177
+tensorflow
 tensorflow-estimator==2.6.0
 termcolor==1.1.0
 threadpoolctl==3.1.0
