@@ -91,4 +91,4 @@ def predict():
     return render_template('forest_fire.html',pred='The thermal stability of your mutated chemical is {}'.format(output),bhai="kuch karna hain iska ab?")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)
